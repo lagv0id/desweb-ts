@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+p, label {
+    font-family: 'Lucida Sans';
+    color: white;
+}
+
+#test {
+    color: blue;
+}
+
+.newclass p {
+    color: red;
+}
+
+h1 p {
+    color: yellow;
+}
